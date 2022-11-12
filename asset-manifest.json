@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjs-landing-page/static/css/main.d7da34c1.css",
+    "main.js": "/reactjs-landing-page/static/js/main.3c1aff11.js",
+    "static/media/video.mp4": "/reactjs-landing-page/static/media/video.4b15fe082afbe1c46787.mp4",
+    "static/media/logo-2.png": "/reactjs-landing-page/static/media/logo-2.18acf74fa92261298992.png",
+    "static/media/svg-8.svg": "/reactjs-landing-page/static/media/svg-8.b37d1529d99b473a6e985ebf1ffefcb8.svg",
+    "static/media/svg-2.svg": "/reactjs-landing-page/static/media/svg-2.ca65c335ce54c97bf3baa43931263ca8.svg",
+    "static/media/svg-6.svg": "/reactjs-landing-page/static/media/svg-6.44998dbcbf091fccd937afa3692cb5d0.svg",
+    "static/media/svg-4.svg": "/reactjs-landing-page/static/media/svg-4.8625a38f122f341cbdbdc6732cd2b5f3.svg",
+    "static/media/svg-11.svg": "/reactjs-landing-page/static/media/svg-11.baff7979945a05d2b974e236bf7a13db.svg",
+    "static/media/svg-9.svg": "/reactjs-landing-page/static/media/svg-9.6450170c849e57733b596511a094e899.svg",
+    "static/media/svg-10.svg": "/reactjs-landing-page/static/media/svg-10.ff2e90f9a75c01d8f9a2612891d1f258.svg",
+    "static/media/svg-1.svg": "/reactjs-landing-page/static/media/svg-1.fc0e8b2dcb404501e56547fb165dee8c.svg",
+    "static/media/svg-7.svg": "/reactjs-landing-page/static/media/svg-7.b1180d18abf322efacf8a3d257964733.svg",
+    "index.html": "/reactjs-landing-page/index.html",
+    "main.d7da34c1.css.map": "/reactjs-landing-page/static/css/main.d7da34c1.css.map",
+    "main.3c1aff11.js.map": "/reactjs-landing-page/static/js/main.3c1aff11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.3c1aff11.js"
+  ]
+}
